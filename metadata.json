@@ -1,0 +1,7 @@
+{
+  "name": "Fix.it x247 v3.1",
+  "description": "HomeHub Central and Ecosystem platform for vertical services (SOS, Services, Jobs, and Meta-verse) with Neo-Brutalism and Glassmorphism design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

@@ -1,0 +1,25 @@
+
+[
+  {
+    "category": "Canalização",
+    "area": "Almada",
+    "pros": [
+      { "name": "João Canalizador", "phone": "+351912345678" },
+      { "name": "Pedro Canalizador", "phone": "+351987654321" }
+    ]
+  },
+  {
+    "category": "Eletricidade",
+    "area": "Almada",
+    "pros": [
+      { "name": "Ana Eletricista", "phone": "+351911111111" }
+    ]
+  },
+  {
+    "category": "Canalização",
+    "area": "Setúbal",
+    "pros": [
+      { "name": "Carlos Canalizador", "phone": "+351922222222" }
+    ]
+  }
+]

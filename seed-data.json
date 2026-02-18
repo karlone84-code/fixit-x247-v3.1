@@ -1,0 +1,48 @@
+
+{
+  "areas": [
+    { "id": "canalizador", "name": "Canalizador" },
+    { "id": "eletricista", "name": "Eletricista" },
+    { "id": "carpinteiro", "name": "Carpinteiro" },
+    { "id": "limpezas", "name": "Limpezas" }
+  ],
+  "categories": [
+    { "id": "c_roturas", "areaId": "canalizador", "name": "Roturas e fugas" },
+    { "id": "c_entupimentos", "areaId": "canalizador", "name": "Entupimentos e desobstruções" },
+    { "id": "c_loicas", "areaId": "canalizador", "name": "Instalações de loiças sanitárias" },
+    { "id": "c_torneiras", "areaId": "canalizador", "name": "Instalações de torneiras e misturadoras" },
+    { "id": "c_esquentadores", "areaId": "canalizador", "name": "Instalações de esquentadores e caldeiras" },
+    { "id": "c_revisoes", "areaId": "canalizador", "name": "Revisões e manutenção preventiva" },
+    { "id": "c_ajustes", "areaId": "canalizador", "name": "Deslocações e pequenos ajustes" },
+    { "id": "e_avarias", "areaId": "eletricista", "name": "Avarias e falhas elétricas" },
+    { "id": "e_quadros", "areaId": "eletricista", "name": "Quadros elétricos e disjuntores" },
+    { "id": "e_tomadas", "areaId": "eletricista", "name": "Instalação de tomadas e interruptores" },
+    { "id": "e_iluminacao", "areaId": "eletricista", "name": "Iluminação interior e exterior" },
+    { "id": "e_eletrodomesticos", "areaId": "eletricista", "name": "Instalação de eletrodomésticos" },
+    { "id": "e_certificacoes", "areaId": "eletricista", "name": "Certificações e inspeções simples" },
+    { "id": "e_revisoes", "areaId": "eletricista", "name": "Revisões e manutenção preventiva" },
+    { "id": "carp_portas", "areaId": "carpinteiro", "name": "Reparação de portas e janelas" },
+    { "id": "carp_moveis", "areaId": "carpinteiro", "name": "Montagem de móveis" },
+    { "id": "carp_roupeiros", "areaId": "carpinteiro", "name": "Roupeiros e arrumação" },
+    { "id": "carp_pavimentos", "areaId": "carpinteiro", "name": "Pavimentos em madeira" },
+    { "id": "carp_cozinhas", "areaId": "carpinteiro", "name": "Cozinhas e bancadas" },
+    { "id": "carp_arranjos", "areaId": "carpinteiro", "name": "Pequenos arranjos de carpintaria" },
+    { "id": "l_pontual", "areaId": "limpezas", "name": "Limpeza doméstica pontual" },
+    { "id": "l_recorrente", "areaId": "limpezas", "name": "Limpeza doméstica recorrente" },
+    { "id": "l_pos_obra", "areaId": "limpezas", "name": "Limpeza pós-obra" },
+    { "id": "l_vidros", "areaId": "limpezas", "name": "Limpeza de vidros e montras" },
+    { "id": "l_escritorios", "areaId": "limpezas", "name": "Limpeza de escritórios" },
+    { "id": "l_profunda", "areaId": "limpezas", "name": "Limpeza profunda/cozinha e WC" }
+  ],
+  "market_stats": {
+    "canalizador": {
+      "c_roturas": { "avg": 52.00, "max": 75.00 },
+      "c_entupimentos": { "avg": 65.00, "max": 90.00 },
+      "c_loicas": { "avg": 40.00, "max": 60.00 },
+      "c_torneiras": { "avg": 35.00, "max": 55.00 },
+      "c_esquentadores": { "avg": 120.00, "max": 180.00 },
+      "c_revisoes": { "avg": 45.00, "max": 70.00 },
+      "c_ajustes": { "avg": 25.00, "max": 40.00 }
+    }
+  }
+}
